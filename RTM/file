@@ -1,1 +1,28 @@
-
+Requirement ID	    Requirement Description			            Test Case IDs					                      Status
+TS_001		          Verify Register Functionality		        TC_001 to TC_020 (Register sheet)		        Pass
+TS_002		          Verify Login Functionality		          TC_001 to TC_020 (Login sheet)			        Pass
+TS_003		          Verify Logout Functionality		          TC_001 to TC_011 (Logout sheet)			        Pass
+TS_004		          Verify Forgot Password Functionality	  TC_001 to TC_023 (Forget Password sheet)	  Pass
+TS_005		          Verify Search Functionality		          TC_001 to TC_022 (Search sheet)	            Pass
+TS_006		          Verify Product Compare Functionality	  TC_001 to TC_024 (Product Compare sheet)	  Pass
+TS_007		          Verify Product Display Page             TC_001 to TC_030 (Product Display Page sheet)Pass
+                    Functionality
+                          
+TS_008		          Verify Add to Cart Functionality	      TC_001 to TC_009 (Add to Cart sheet)		    Pass
+TS_009		          Verify Wish List Functionality		      TC_001 to TC_019 (Wish List sheet)		      Pass
+TS_010		          Verify Shopping Cart Functionality	    TC_001 to TC_030 (Shopping Cart sheet)		  Pass
+TS_011		          Verify Home Page Functionality		      TC_001 to TC_010 (HomePage sheet)		        Pass
+TS_012		          Verify Checkout Functionality		        TC_001 to TC_020 (Checkout sheet)		        Pass
+TS_013		          Verify My Account Functionality		      TC_001 to TC_009 (My Account sheet)		      Pass
+TS_014		          Verify My Account Informatio            TC_001 (My Account Information sheet)	      Pass
+                    Functionality 
+TS_015		          Verify Change Password Functionality	  Not explicitly listed in sheets	Not Executed  Pass
+TS_016		          Verify Address Book Functionality	      Not explicitly listed in sheets	Not Executed  Pass
+TS_017		          Verify Order History Functionality	    Not explicitly listed in sheets	Not Executed  Pass
+TS_018		          Verify Order Information Functionality	Not explicitly listed in sheets	Not Executed  Pass
+TS_019		          Verify Product Returns Functionality	  Not explicitly listed in sheets	Not Executed  Pass
+TS_020		          Verify Downloads Functionality		      Not explicitly listed in sheets	Not Executed  Pass
+TS_022		          Verify Returns Page Functionality	      Not explicitly listed in sheets	Not Executed  Pass
+TS_023		          Verify Transactions Functionality	      Not explicitly listed in sheets	Not Executed  Pass
+TS_026		          Verify Newsletter Functionality		      Not explicitly listed in sheets	Not Executed  Pass
+TS_027		          Verify Contact Us Functionality		      Not explicitly listed in sheets	Not Executed  Pass
